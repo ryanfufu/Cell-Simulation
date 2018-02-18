@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<simulation>
+	<type name="Spreading Fire" author="team03">
+		<dimensions>10</dimensions>
+		<burning>#ff0000</burning>
+		<tree>#00ff00</tree>
+		<empty>#ffff00</empty>
+		<percentBurning>2</percentBurning>
+		<probCatch>.5</probCatch>
+		<grid>2 2 2</grid>
+	</type>
+</simulation>
